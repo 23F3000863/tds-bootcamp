@@ -1,9 +1,14 @@
- 
+---
+---
+
+--- Before Day-1 ---
+I already knew ...
+--- 
+
 ## Day-1 Checklist
 
 - [x] I can open a Linux terminal and recognize the shell prompt (`user@machine:~$`)
 - [x] I can run `python --version`, `git --version`, and `uv --version` without errors
-- [ ] I can run `uv --version` without errors
 - [x] I can open VS Code connected to WSL/Linux using `code .`
 - [x] I know what `~` means and can navigate to my home directory using `cd ~`
 - [x] I can create folders and files using `mkdir` and `touch`, and list them with `ls`
@@ -15,5 +20,14 @@
 
 --- After Day-1 ---
 I learned these things as well, apart from the checklist ...
-I learned how to use WSL as a Linux environment on Windows, how Linux file paths differ from Windows paths, how to navigate directories using terminal commands, create files and folders, and connect VS Code to WSL.
-I also learned basic terminal commands such as pwd, ls, cd, mkdir, touch, cat, and the difference between > and >>.
+---
+I learned how to use WSL as a Linux environment on Windows, how Linux file paths differ from Windows paths, how to navigate directories using terminal commands, create files and folders, and connect VS Code to WSL. I also learned basic terminal commands such as pwd, ls, cd, mkdir, touch, cat, and the difference between > and >>.
+
+--- Feedback (Suggestions for the TDS Team) ---
+This is my feedback ...
+---
+
+---
+---
+
+You can write your personal notes here; they will not be parsed and are for your own reference.
